@@ -4,20 +4,20 @@ This document explains the step-by-step process of creating and associating Rout
 
 ---
 
-## 📌 Step 1: Click on "Create Route Table"
+##  Step 1: Click on "Create Route Table"
 <img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/988cfc9a-5687-4337-9d6d-2a49f7885f34" />
 
 
 ---
 
-## 📌 Step 2: Give Name to Route Table
+##  Step 2: Give Name to Route Table
 Provide a meaningful name for the route table  
 <img width="940" height="147" alt="image" src="https://github.com/user-attachments/assets/34a1b4c3-f477-45dc-824e-7b64e7760719" />
 
 
 ---
 
-## 📌 Step 3: Select VPC
+##  Step 3: Select VPC
 Choose the VPC to control traffic for that specific VPC only  
 <img width="940" height="121" alt="image" src="https://github.com/user-attachments/assets/12f33cd6-ada7-4316-b114-c7271ac618b9" />
 
