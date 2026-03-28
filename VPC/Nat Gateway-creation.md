@@ -4,21 +4,21 @@ This document explains the step-by-step process of creating and configuring a NA
 
 ---
 
-## 📌 Step 1: Click on "Create NAT Gateway"
+##  Step 1: Click on "Create NAT Gateway"
 Go to **VPC Dashboard → NAT Gateways → Create NAT Gateway**  
 <img width="940" height="214" alt="image" src="https://github.com/user-attachments/assets/139c18d1-1b6d-4cc1-a74d-ad4dcf6252e1" />
 
 
 ---
 
-## 📌 Step 2: Give Name to NAT Gateway
+##  Step 2: Give Name to NAT Gateway
 Provide a meaningful name for the NAT Gateway  
 <img width="940" height="87" alt="image" src="https://github.com/user-attachments/assets/b3eef20d-e78f-4bce-9014-2a06a4a43ffd" />
 
 
 ---
 
-## 📌 Step 3: Choose Availability Mode
+##  Step 3: Choose Availability Mode
 Select one of the following:
 - Zonal (Recommended)
 - Regional  
@@ -27,14 +27,14 @@ Select one of the following:
 
 ---
 
-## 📌 Step 4: Select VPC
+##  Step 4: Select VPC
 Choose the VPC where NAT Gateway will operate  
 <img width="940" height="117" alt="image" src="https://github.com/user-attachments/assets/48358df8-3ef7-4ba6-b5e0-046da4f28f9d" />
 
 
 ---
 
-## 📌 Step 5: Choose Connectivity Type
+##  Step 5: Choose Connectivity Type
 Select **Public NAT Gateway**  
 - Used to provide outbound internet access for private subnets  
 <img width="940" height="65" alt="image" src="https://github.com/user-attachments/assets/a3b68bdf-efed-4a45-8b2c-2c70f31b9ebc" />
@@ -42,7 +42,7 @@ Select **Public NAT Gateway**
 
 ---
 
-## 📌 Step 6: Allocate Elastic IP
+##  Step 6: Allocate Elastic IP
 Select **Automatic allocation**  
 - Provides a static public IP for outbound traffic
 <img width="940" height="103" alt="image" src="https://github.com/user-attachments/assets/d7dfa7ca-d6f4-496a-ba90-a3e815f575a2" />
@@ -57,7 +57,7 @@ Wait until status shows **Available**
 
 ---
 
-## 🔁 Step 8: Edit Route Table
+##  Step 8: Edit Route Table
 Go to **Route Tables → Select Private Route Table → Edit Routes**  
 <img width="940" height="212" alt="image" src="https://github.com/user-attachments/assets/55e8f146-fbe1-494c-86ab-875d3ffbc0b4" />
 
