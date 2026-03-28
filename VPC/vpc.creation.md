@@ -5,7 +5,7 @@ This document explains the step-by-step process of creating a VPC in AWS.
 ---
 
 ## 📌 Step 1: Click on "Create VPC"
-![Step 1 Screenshot](images/step1.png)
+![Step 1 Screenshot](step1.png)
 
 ---
 
